@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Raghu 👋
 
-<!--
-**raghupathys97/raghupathys97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AWS DevOps Engineer** — building infrastructure-as-code, containerized microservices, and event-driven pipelines on AWS.
 
-Here are some ideas to get you started:
+🔧 **Core stack:** Terraform · Kubernetes · Docker · CI/CD · AWS (Lambda, API Gateway, DynamoDB, EKS-ready)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Featured projects:**
+- **[FinWise-DevOps](https://github.com/raghupathys97/finwise-devops)** — Serverless AI financial advisor backend (API Gateway → Lambda → DynamoDB), fully provisioned with Terraform
+- **[HR Workflow Automation](https://github.com/raghupathys97/hr-workflow-automation)** — Containerized microservices (onboarding, leave approval) orchestrated with Kubernetes
+- **[Media Processing Pipeline](https://github.com/raghupathys97/media-processing-pipeline)** — Async, event-driven image processing (FastAPI → Redis Queue → Worker → S3-compatible storage)
+
+Open to freelance DevOps/AWS work — happy to connect.
+
+📫 raghupathy.s97@gmail.com
